@@ -1,7 +1,7 @@
 
 def main():
     list = []
-    addition = 0
+
     print("Enter how many numbers you want to store")
     No = int(input())
 
@@ -9,9 +9,8 @@ def main():
     for i in range(0,No):
         no = int(input())
         list.append(no)
-        addition = addition + no
     print(list)
-    print("Addition is ",addition)
+    print("Maximum number is ",min(list))
 
 if __name__ == "__main__":
     main()
