@@ -8,11 +8,11 @@
 
 4. Write a program which display 5 times Marvellous on screen. 
 Output : 
-# Marvellous 
-# Marvellous 
-# Marvellous 
-# Marvellous 
-# Marvellous 
+# Awosome
+# Awosome
+# Awosome 
+# Awosome
+# Awosome 
 
 5. Write a program which display 10 to 1 on screen. Output : 10 9 8 7 6 5 4 3 2 1 
 
