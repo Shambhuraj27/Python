@@ -1,6 +1,6 @@
 
 
-import Num
+import MarvellousNum
 
 def listprime():
     list = []
