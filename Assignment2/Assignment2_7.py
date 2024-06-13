@@ -6,6 +6,5 @@ def main():
         for j in range(1,No + 1):
             print(j,end = " ")
         print("\n")
-
 if __name__ == "__main__":
     main()
