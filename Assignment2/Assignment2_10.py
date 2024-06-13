@@ -8,6 +8,5 @@ def main():
         sum = sum + Ans
         No = No // 10
     print(sum)
-    
 if __name__ == "__main__":
     main()
