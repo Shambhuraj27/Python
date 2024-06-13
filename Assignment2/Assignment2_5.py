@@ -10,7 +10,6 @@ def main():
         print("The number is a prime number")
     else:
         print("The number is not a prime number")
-
 if __name__ == "__main__":
     main()
 
