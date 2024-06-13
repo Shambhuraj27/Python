@@ -12,7 +12,6 @@ def main():
         addition = addition + no
     print(list)
     print("Addition is ",addition)
-
 if __name__ == "__main__":
     main()
 
